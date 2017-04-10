@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Projname_appshorthand</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!--updateDialog-->
+    <string name="prompt">提示</string>
+    <string name="exit_app">你确定要退出应用吗?</string>
+    <string name="confirm">确定</string>
+    <string name="cancel">取消</string>
+    <string name="prompt_download_title">下载提示</string>
+    <string name="prompt_no_wifi_download">您在目前的网络环境下继续下载将可能会消耗手机流量，请确认是否继续下载？</string>
+    <string name="prompt_continue_download">继续下载</string>
+    <string name="prompt_cancel_download">取消下载</string>
+    <string name="prompt_update_download_next_time">下次再说</string>
+    <string name="prompt_download">下载</string>
+    <string name="notification_downloading">正在下载...</string>
+    <!--updateDialog-->
+</resources>
